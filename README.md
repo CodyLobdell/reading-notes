@@ -16,6 +16,7 @@ Three reminders to stay in a growth Mindset:
 
   2. Analyze the patterns and learn to adjust accordingly.
 
-  3. <em><strong>Attitude<em><strong> and <em><strong>effort<em><strong></em> determine everything! 
+  3. <em><strong>Attitude<em><strong> and <em><strong>effort<em> determine everything! 
 
-Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
+
+  Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
