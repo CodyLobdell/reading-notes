@@ -2,9 +2,11 @@
 
 Reading Notes Journal D102
 
-My name is Cody! :) I like to pet random dogs at the park!
+My name is Cody! I like to pet random dogs at the park!
 
-Growth Mindset is pursuing education.
+What Growth Mindset is to me...
+
+Three reminders to stay in a growth Mindset:
 
 1. Reminder one
 
@@ -12,4 +14,4 @@ Growth Mindset is pursuing education.
 
 3. Reminder Three  
 
-Link to my GitHub Portfolio: https://github.com/CodyLobdell
+Link to my GitHub Portfolio: (https://github.com/CodyLobdell)
