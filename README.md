@@ -12,10 +12,12 @@ Growth Mindset to me is believing that intelligence can be developed. The abilit
 
 Three reminders to stay in a growth Mindset:
 
-1. Mistakes are a natural part of the learning process
+<ul>
+    <li>Mistakes are a natural part of the learning process<li>
 
-2. Analyze the patterns and learn to adjust accordingly (nothing 
+    <li>Analyze the patterns and learn to adjust accordingly<li>
 
-3. Attitude and effort determine everything!  
+    <li>Attitude and effort determine everything!<li>  
+  </ul>
 
 Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
