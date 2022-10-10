@@ -14,4 +14,4 @@ Three reminders to stay in a growth Mindset:
 
 3. Reminder Three  
 
-Link to my GitHub Portfolio: (https://github.com/CodyLobdell)
+Link to my GitHub Portfolio: ([https://github.com/CodyLobdell])
