@@ -21,6 +21,8 @@ Three reminders to stay in a growth Mindset:
 
   3. ***Attitude and effort determine everything!*** 
 
+  
+  
   Add me on LinkedIn: <https://www.linkedin.com/in/cody-lobdell/>
 
   Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
