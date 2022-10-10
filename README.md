@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 
 Reading Notes Journal D102
 
