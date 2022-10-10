@@ -4,14 +4,14 @@ Reading Notes Journal D102
 
 My name is Cody! I like to pet random dogs at the park!
 
-What Growth Mindset is to me...
+Growth Mindset to me is believing that intelligence can be developed. The ability to engage and persist when faced with challenges.
 
 Three reminders to stay in a growth Mindset:
 
-1. Reminder one
+1. Mistakes are a natural part of the learning process
 
-2. Reminder two
+2. Analyze the patterns and learn to adjust accordingly (nothing 
 
-3. Reminder Three  
+3. Attitude and effort determine everything!  
 
 Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
