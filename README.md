@@ -14,10 +14,10 @@ Three reminders to stay in a growth Mindset:
 
 <ul>
     <li>Mistakes are a natural part of the learning process<li>
-
+<ul>
     <li>Analyze the patterns and learn to adjust accordingly<li>
-
+<ul>
     <li>Attitude and effort determine everything!<li>  
-  </ul>
+  
 
 Link to my GitHub Portfolio: <https://github.com/CodyLobdell>
