@@ -10,4 +10,4 @@ These are my Day 1 notes about markdown:
   
  - The Markdown syntax for images doesn’t allow you to specify the width and height of images. If you need to resize an image and your Markdown processor supports HTML, you can use the img HTML tag with the width and height attributes to set the dimensions of an image in pixels.
   
-  https://codylobdell.github.io/reading-notes/
+  [https://codylobdell.github.io/reading-notes/](https://codylobdell.github.io/reading-notes/class1notes)
