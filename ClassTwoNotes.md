@@ -18,3 +18,5 @@ What I learned:
    
  - Whenever we refer to either a file or directory on the command line, we are in fact referring to a path. 
    A path is a means to get to a particular file or directory on the system.
+
+[https://codylobdell.github.io/reading-notes/ClassTwoNotes.md](https://codylobdell.github.io/reading-notes/ClassTwoNotes.md)
