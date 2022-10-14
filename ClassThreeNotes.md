@@ -39,3 +39,6 @@ What I learned:
    remote3 https://github.com/remote3/example (fetch)
 
    remote3 https://github.com/remote3/example (push)
+   
+   
+  [https://codylobdell.github.io/reading-notes/ClassThreeNotes.md](https://codylobdell.github.io/reading-notes/ClassThreeNotes.md)
