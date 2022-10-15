@@ -1,6 +1,6 @@
-# Hello-World-102d44
+# My Code Fellows Notes
 
-Hello World! I'm Cody Lobdell, and welcome to my GitHub page!
+Hello World! I'm Cody Lobdell, and welcome to my GitHub notes page!
 
 
 ## Table of Contents
