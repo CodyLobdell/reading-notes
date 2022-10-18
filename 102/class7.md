@@ -47,8 +47,8 @@
   - Arithmetic operators are used to perform arithmetic on numbers:
 
      Operator	Description
-     	+ 	Addition
-	-     	Subtraction
+     	+ 		Addition
+	-     	        Subtraction
 	*		Multiplication
 	**		Exponentiation (ES2016)
 	/		Division
