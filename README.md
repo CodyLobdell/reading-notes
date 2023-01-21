@@ -5,7 +5,7 @@ Hello World! I'm Cody Lobdell, and welcome to my GitHub notes page!
 
 ## Table of Contents
 
-### 102 Notes
+### 102 Notes - Intro to Software Development
 
 - [Class 1 Notes](102/class1.md)
 - [Class 2 Notes](102/class2.md)
