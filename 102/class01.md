@@ -1,6 +1,6 @@
 # Class 1 Notes
 
->> How the Web Works <<
+>> How the Web Works 
 
 1.-Through the HTTP protocol, resources are exchanged between client devices and servers over the internet. Client devices send requests to servers for the resources      needed to load a web page; the servers send responses back to the client to fulfill the requests.
 
@@ -20,7 +20,7 @@
 
 4.-A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable. There are some        rules while declaring a JavaScript variable (also known as identifiers). Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
 
->> Introduction to HTML <<
+>> Introduction to HTML 
 
 1.-An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element. For example, attributes can be used to change the color,    size, or functionality of HTML elements.
 
@@ -38,14 +38,14 @@
 6.-The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
      
      
->> How to start to design a Website <<
+>> How to start to design a Website 
   
 1.- Identify your goal
      
 2.- Who is the website for? 
     One of the most important steps is identifying your ideal audience and anticipated visitors by demographic data, tech-savviness, intent, personal goals and pain       point, the stage of their purchase decision making, and more.
   
->> Semantics <<
+>> Semantics 
      
 1.- By default, most browser's user agent stylesheet will style an <h1> with a large font size to make it look like a heading.
    Using <span> will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is            therefore a good idea to use the right HTML element for the right job.
@@ -54,7 +54,7 @@
    The pages made with semantic elements are much easier to read.
    It has greater accessibility. It offers a better user experience.
      
->> What is JavaScript? <<
+>> What is JavaScript? 
      
 1.--Show or hide more information with the click of a button  
    -Change the color of a button when the mouse hovers over it  
