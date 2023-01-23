@@ -70,6 +70,6 @@ Knowing the difference between terminology and actions in coding is essential to
 2.-You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code. The <.script> tag can be placed in      the <head> section of your HTML or in the <.body> section
      
      
-     
+    
   
 ## Things I want to know more about
