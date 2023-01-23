@@ -25,7 +25,7 @@
 1.-An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element. For example, attributes can be used to change the color,    size, or functionality of HTML elements.
 
 2.-HTML is made up of a series of hierarchical elements. Most elements have an opening tag and a closing tag, with content sandwiched in between.
-   <! DOCTYPE>   <.html >  <.head >  <.title >  <.body >
+   <! DOCTYPE>   <.html>  <.head>  <.title>  <.body>
   
 3.- <.article> Tag: This tag contains independent content that doesn’t require any other context. So the <article> tag can be placed inside the main content. But each      of the articles will contain independent content within it.
 
@@ -65,7 +65,7 @@
    -Displaying animations
    -Using a drop-down hamburger menu
 
-2.-You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code. The <.script> tag can be placed in      the <head> section of your HTML or in the <body> section
+2.-You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code. The <.script> tag can be placed in      the <head> section of your HTML or in the <.body> section
      
      
      
