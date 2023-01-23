@@ -18,7 +18,7 @@ Hello World! I'm Cody Lobdell, and welcome to my GitHub notes page!
 
 ### 201 Notes - Foundations of Software Development
 
-- [Class 1 Notes](102/class1.md)
+- [Class 1 Notes](102/class01.md)
 - [Class 2 Notes](102/class2.md)
 - [Class 3 Notes](102/class3.md)
 - [Class 4 Notes](102/class4.md)
