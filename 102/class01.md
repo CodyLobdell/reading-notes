@@ -25,7 +25,7 @@
 1.-An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element. For example, attributes can be used to change the color,    size, or functionality of HTML elements.
 
 2.-HTML is made up of a series of hierarchical elements. Most elements have an opening tag and a closing tag, with content sandwiched in between.
-   <! DOCTYPE>   <html>  <head>  <title>  <body>
+   <! DOCTYPE>   <html >  <head >  <title >  <body >
   
 3.- <article> Tag: This tag contains independent content that doesn’t require any other context. So the <article> tag can be placed inside the main content. But each      of the articles will contain independent content within it.
 
@@ -47,8 +47,8 @@
   
 >> Semantics 
      
-1.- By default, most browser's user agent stylesheet will style an <h1> with a large font size to make it look like a heading.
-   Using <span> will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is            therefore a good idea to use the right HTML element for the right job.
+1.- By default, most browser's user agent stylesheet will style an <h1 > with a large font size to make it look like a heading.
+   Using <span > will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is            therefore a good idea to use the right HTML element for the right job.
      
 2.-The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
    The pages made with semantic elements are much easier to read.
