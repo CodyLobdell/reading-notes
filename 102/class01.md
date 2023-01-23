@@ -1,5 +1,7 @@
 # Class 1 Notes
 
+Knowing the difference between terminology and actions in coding is essential to ensuring a smoother workflow. Also, being able to construct a concept of what you wish to achieve from your website/page is crucial before stepping into the very intricate process of coding.
+
 >> How the Web Works 
 
 1.-Through the HTTP protocol, resources are exchanged between client devices and servers over the internet. Client devices send requests to servers for the resources      needed to load a web page; the servers send responses back to the client to fulfill the requests.
