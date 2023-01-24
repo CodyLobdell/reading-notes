@@ -22,10 +22,10 @@
    -Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin       and related properties.
      
 2. List and describe the four parts of an HTML elements box as referred to by the box model.
-   - The <html> element is the root element and it defines the whole HTML document.
-   - The <body> element defines the document's body.
-   - The <h1> element defines a heading.
-   - The <p> element defines a paragraph.
+   - The <.html> element is the root element and it defines the whole HTML document.
+   - The <.body> element defines the document's body.
+   - The <.h1> element defines a heading.
+   - The <.p> element defines a paragraph.
 
   
 >> Arrays. Operators and Expressions. Conditionals. Loops.
