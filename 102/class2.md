@@ -1,17 +1,52 @@
 # Class 2 Notes
 
-What I learned:
+HTML, CSS and JAVASCRIPT are three basics which are essential to make a website. The better understanding of the proper dialect ensures a satisfactory and credible finsihed product.
 
-- A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor is one of the most important tools you can use as an aspiring web developer.
+>> HTML Text Fundamentals. HTML Advanced Text Formatting.
 
-- You can use Notepad and Text Edit to make websites, but there are other text editors available that might help you code more efficiently.
+1.-The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages. The pages made with semantic elements are much easier to read. Greater accessibility and offers better user experience.
 
-- Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text are all viable Third-Party options for text-editing.
+2.-Six levels
 
-- A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+3.-You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct     meaning.
 
-- The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands.
+4.-The title attribute
 
-- Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
 
-- Whenever we refer to either a file or directory on the command line, we are in fact referring to a path. A path is a means to get to a particular file or directory on the system.
+>> How CSS Is Structured.
+
+1.-CSS can be applied to HTML or XHTML using three methods: linked, embedded, and inline.
+
+2.-Inline lacks support (or it has really poor support) for CSS features.
+
+3.-
+  a.- h2
+  b.-color
+     padding
+  c.-black 
+     5px
+     
+>> Learn JS
+
+1.- String
+
+2.-Addition (+)
+  -Subtraction (-), Multiplication (*), division (/)
+  -Assignment (=)
+  -Strict equality (===)
+  
+3.- Supply and demand prices
+
+>> Making Decisions In Your Code – Conditionals.
+
+1.- condition , true
+
+2.-Use the else if statement to specify a new condition 
+  if the first condition is false.
+
+3.- < (less than), > (greater than), <= (less than or equal), and >= (greater than or equal)
+
+4.- && is used to perform and operation means if anyone of the expression/condition evaluates to false whole thing is false. || is used to perform or operation if anyone of the expression/condition evaluates to true whole thing becomes true. so it continues till the end to check atleast one condition to become true.
+
+
+## Things I want to know more about
