@@ -50,3 +50,23 @@ HTML, CSS and JAVASCRIPT are three basics which are essential to make a website.
 
 
 ## Things I want to know more about
+
+"h1" styles carries over to the body
+
+The <h1> to <h6> HTML elements represent six levels of section headings ie. header
+
+no spaces with fonts wihtin the headings
+
+script always afteer the footer (before closing body tag)
+  
+-inline internal styles
+  
+CLASS 3, 6+7, AND 14 WILL BE DIFFICULT
+  
+only git add specific files not add all
+  
+  
+  
+
+  
+
