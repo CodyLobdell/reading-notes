@@ -13,7 +13,7 @@
   -Ordered list = specific order.
   
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
-  - <.ol> OR <.ul>
+  - <.ol.> OR <.ul.>
 
 >> The Box Model.
 
