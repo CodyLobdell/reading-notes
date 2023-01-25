@@ -45,7 +45,7 @@
     /= Divides the variable value on the left by the value on the right, and returns the new variable value
     
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
-  - 
+  - 10 dog
   
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
   - Passwords are “if, then” logic statements: If a user enters the correct password, then they can access the program.
