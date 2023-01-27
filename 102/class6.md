@@ -1,45 +1,24 @@
-# Class 6 Notes
+# Class 4 Notes
 
-- JavaScript Variables
+>> Javascript Object Basics
 
-  - What are Variables?
-    Variables are containers for storing data (storing data values).
+1.How would you describe an object to a non-technical friend you grew up with?
+  -
+2.What are some advantages to creating object literals?
+  -
+3.How do objects differ from arrays?
+  -
+4.Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+  -
+5.Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+  -
+  
+>> Introduction to the DOM
 
-- When to Use JavaScript var?
-   - Always declare JavaScript variables with var,let, orconst.
+1.What is the DOM?
+  -
+  
+2.Briefly describe the relationship between the DOM and JavaScript.
+  -
 
-   - The var keyword is used in all JavaScript code from 1995 to 2015.
-
-   - The let and const keywords were added to JavaScript in 2015.
-
-   - If you want your code to run in older browsers, you must use var.
-
-
-- When to Use JavaScript const?
-   - If you want a general rule: always declare variables with const.
-
-   - If you think the value of the variable can change, use let. 
-
-- Just Like Algebra
-   - Just like in algebra, variables hold values!
-
-- JavaScript Identifiers
-
-  All JavaScript variables must be identified with unique names.
-
-  These unique names are called identifiers.
-
-  Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
-
-  The general rules for constructing names for variables (unique identifiers) are:
-
-   - Names can contain letters, digits, underscores, and dollar signs.
-   - Names must begin with a letter.
-   - Names can also begin with $ and _ (but we will not use it in this tutorial).
-   - Names are case sensitive (y and Y are different variables).
-   - Reserved words (like JavaScript keywords) cannot be used as names.
-
-- The Assignment Operator
-  - In JavaScript, the equal sign (=) is an "assignment" operator, not an "equal to" operator.
-
-  - This is different from algebra.
+  ## Things I want to Know More About
