@@ -1,4 +1,4 @@
-# Class 4 Notes
+# Class 6 Notes
 
 >> Javascript Object Basics
 
