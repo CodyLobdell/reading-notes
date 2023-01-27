@@ -1,5 +1,7 @@
 # Class 5 Notes
 
+Adding images and styling the page are crucial for quality web-pages. If it doesn't look halfway decent, or like you didn't put any work into it, why would anyone want to stay on the page?!
+
 >> Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
 1.What is a real world use case for the alt attribute being used in a website?
