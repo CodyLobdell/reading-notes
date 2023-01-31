@@ -1,4 +1,4 @@
-# Class 7 Notes
+# Class 8 Notes
 
 >> Learn CSS - Flexbox
 
